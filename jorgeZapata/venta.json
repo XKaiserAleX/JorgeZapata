@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Caf\u00e9 Americano",
+        "valor": 9574.033165680521
+    },
+    {
+        "nombre": "T\u00e9 Chai",
+        "valor": 6281.6903059935175
+    },
+    {
+        "nombre": "Croissant",
+        "valor": 7715.559675482521
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "valor": 9080.775303394668
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "valor": 4477.747165137143
+    },
+    {
+        "nombre": "Pastel de Zanahoria",
+        "valor": 4796.2016201970055
+    },
+    {
+        "nombre": "Espresso Doble",
+        "valor": 2302.8663764276603
+    },
+    {
+        "nombre": "Ba;do de Frutas",
+        "valor": 9719.044509875723
+    },
+    {
+        "nombre": "Muffin",
+        "valor": 2248.4770337283953
+    },
+    {
+        "nombre": "Ensalada",
+        "valor": 4374.692690749237
+    },
+    {
+        "nombre": "Chocolate Caliente",
+        "valor": 5769.869002077285
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "valor": 2348.6950739904423
+    },
+    {
+        "nombre": "S\u00e1ndwich de Huevo",
+        "valor": 9119.6637433834
+    },
+    {
+        "nombre": "Galletas de Avena",
+        "valor": 3832.482446826913
+    },
+    {
+        "nombre": "Frapp\u00e9 de Caramelo",
+        "valor": 4188.154913288283
+    }
+]
